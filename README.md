@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-Have to write something
+This is the master
